@@ -1,1 +1,1 @@
-# graphql_thesis
+This repository contains a research paper on the topic "Using modern GraphQL solutions in the context of Internet of Things" submitted as a Bachelor's Thesis for the purpose of completion of the Bachelor's Degree studies in Information technology at Oulu University of the Applied sciences. The mark received for the project is 5 out of 5. 
